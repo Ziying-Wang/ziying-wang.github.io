@@ -1,6 +1,6 @@
 body {
-    /*background-color: powderblue;*/
-    background-image:url("background.jpg");
+    background-color: powderblue;
+    /*background-image:url("background.jpg");*/
     background-size:100%;
 }
 
