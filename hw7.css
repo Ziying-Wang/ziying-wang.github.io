@@ -18,3 +18,16 @@ h2 {
 
 
 }
+
+#Left {
+    float: left;
+}
+
+#Right {
+    float: right;
+}
+
+img {
+    object-fit:scale-down;
+    
+}
