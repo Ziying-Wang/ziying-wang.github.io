@@ -1,5 +1,5 @@
 body {
-    background-color: powderblue;
+    background-color:lavenderblush;
     /*background-image:url("background.jpg");*/
     background-size:100%;
 }
@@ -34,6 +34,27 @@ img {
 #home {
     background-size: 1280px 660px;
     background-image: url(background.jpg);
+}
+
+ul{
+    list-style-type:circle;
+
+}
+
+#education {
+    margin-bottom:40px;
+}
+
+#leadership {
+    margin-bottom: 40px;
+}
+
+#experience {
+    margin-bottom: 40px;
+}
+
+#major {
+    font-size:20px;
 }
 
 /*background="background.jpg"*/
