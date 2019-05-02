@@ -18,15 +18,22 @@ h2 {
     list-style:none;
 }
 
-#Left {
-    float: left;
+#info {
+    float: inherit;
 }
 
-#Right {
-    float:inherit;
+#OU {
+    float:left;
 }
 
 img {
     object-fit:scale-down;
     
 }
+
+#home {
+    background-size: 1280px 660px;
+    background-image: url(background.jpg);
+}
+
+/*background="background.jpg"*/
