@@ -1,6 +1,5 @@
 body {
     background-color:lavenderblush;
-    /*background-image:url("background.jpg");*/
     background-size:100%;
 }
 
@@ -36,9 +35,9 @@ img {
     background-image: url(background.jpg);
 }
 
-ul{
-    list-style-type:circle;
-
+ul {
+    list-style-type: square;
+    list-style-position: outside;
 }
 
 #education {
@@ -53,8 +52,16 @@ ul{
     margin-bottom: 40px;
 }
 
-#major {
-    font-size:20px;
+#honor {
+    margin-bottom: 40px;
 }
 
-/*background="background.jpg"*/
+#major {
+    font-size:15px;
+}
+
+#photo {
+    float:right;
+    margin-top:60px;
+    margin-right:200px;
+}
